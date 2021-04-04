@@ -41,7 +41,8 @@ Last week:
 
 This week:
 
-- [ ] updating
+- [ ] write project plan & product backlog documents
+- [ ] write API for getting data cubes schema
 
 #### Dong
 
@@ -52,7 +53,10 @@ Last week:
 
 This week:
 
-- [ ] updating
+- [ ] write project plan & product backlog documents
+- [ ] Clean engine with bonono
+- [ ] Clean xlxs file with bonobo
+- [ ] fill up DW data, ETL with bonobo
 
 #### Tin
 
@@ -65,7 +69,9 @@ Last week:
 
 This week:
 
-- [ ] updating
+- [ ] write project plan & product backlog documents
+- [ ] research react-flow lib
+- [ ] Fix bug issues in based UI - WA-01
 
 #### Kieu
 
@@ -77,4 +83,6 @@ Last week:
 
 This week:
 
-- [ ] updating
+- [ ] write project plan & product backlog documents
+- [ ] Test Based UI: Navbar
+- [ ] Test Based UI: Sidebar
